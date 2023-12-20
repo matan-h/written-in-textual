@@ -89,3 +89,4 @@ hs_err_pid*
 temp/*
 .DS_Store
 
+/table[0-9]*.json
