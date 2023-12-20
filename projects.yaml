@@ -43,7 +43,6 @@ labels:
     description: "Best-of list with JavaScript projects"
  
 projects:
-
   - name: saleor
     github_id: saleor/saleor
 
