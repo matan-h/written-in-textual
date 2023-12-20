@@ -45,394 +45,394 @@ labels:
 projects:
 
   - name: saleor
-      github_id: saleor/saleor
+    github_id: saleor/saleor
 
   - name: langflow
-      github_id: logspace-ai/langflow
+    github_id: logspace-ai/langflow
 
   - name: memray
-      github_id: bloomberg/memray
+    github_id: bloomberg/memray
 
   - name: marvin
-      github_id: PrefectHQ/marvin
+    github_id: PrefectHQ/marvin
 
   - name: rich-cli
-      github_id: Textualize/rich-cli
+    github_id: Textualize/rich-cli
 
   - name: LangChain-ChatGLM-Webui
-      github_id: X-D-Lab/LangChain-ChatGLM-Webui
+    github_id: X-D-Lab/LangChain-ChatGLM-Webui
 
   - name: YiVal
-      github_id: YiVal/YiVal
+    github_id: YiVal/YiVal
 
   - name: trogon
-      github_id: Textualize/trogon
+    github_id: Textualize/trogon
 
   - name: frogmouth
-      github_id: Textualize/frogmouth
+    github_id: Textualize/frogmouth
 
   - name: dooit
-      github_id: kraanzu/dooit
+    github_id: kraanzu/dooit
 
   - name: 0x0
-      github_id: mia-0/0x0
+    github_id: mia-0/0x0
 
   - name: langchain-serve
-      github_id: jina-ai/langchain-serve
+    github_id: jina-ai/langchain-serve
 
   - name: tiptop
-      github_id: nschloe/tiptop
+    github_id: nschloe/tiptop
 
   - name: PlexTraktSync
-      github_id: Taxel/PlexTraktSync
+    github_id: Taxel/PlexTraktSync
 
   - name: XHS-Downloader
-      github_id: JoeanAmier/XHS-Downloader
+    github_id: JoeanAmier/XHS-Downloader
 
   - name: RecoverPy
-      github_id: PabloLec/RecoverPy
+    github_id: PabloLec/RecoverPy
 
   - name: live-de-python
-      github_id: dunossauro/live-de-python
+    github_id: dunossauro/live-de-python
 
   - name: termtyper
-      github_id: kraanzu/termtyper
+    github_id: kraanzu/termtyper
 
   - name: textual-paint
-      github_id: 1j01/textual-paint
+    github_id: 1j01/textual-paint
 
   - name: polar
-      github_id: polarsource/polar
+    github_id: polarsource/polar
 
   - name: iSponsorBlockTV
-      github_id: dmunozv04/iSponsorBlockTV
+    github_id: dmunozv04/iSponsorBlockTV
 
   - name: terraform-tui
-      github_id: idoavrah/terraform-tui
+    github_id: idoavrah/terraform-tui
 
   - name: flameshow
-      github_id: laixintao/flameshow
+    github_id: laixintao/flameshow
 
   - name: poetry2nix
-      github_id: nix-community/poetry2nix
+    github_id: nix-community/poetry2nix
 
   - name: harlequin
-      github_id: tconbeer/harlequin
+    github_id: tconbeer/harlequin
 
   - name: textual-markdown
-      github_id: willmcgugan/textual-markdown
+    github_id: willmcgugan/textual-markdown
 
   - name: upiano
-      github_id: eliasdorneles/upiano
+    github_id: eliasdorneles/upiano
 
   - name: evm-semantics
-      github_id: runtimeverification/evm-semantics
+    github_id: runtimeverification/evm-semantics
 
   - name: textual-web
-      github_id: Textualize/textual-web
+    github_id: Textualize/textual-web
 
   - name: redun
-      github_id: insitro/redun
+    github_id: insitro/redun
 
   - name: Mys_Goods_Tool
-      github_id: Ljzd-PRO/Mys_Goods_Tool
+    github_id: Ljzd-PRO/Mys_Goods_Tool
 
   - name: dd-trace-py
-      github_id: DataDog/dd-trace-py
+    github_id: DataDog/dd-trace-py
 
   - name: backend.ai
-      github_id: lablup/backend.ai
+    github_id: lablup/backend.ai
 
   - name: girok
-      github_id: noisrucer/girok
+    github_id: noisrucer/girok
 
   - name: NoteSH
-      github_id: Cvaniak/NoteSH
+    github_id: Cvaniak/NoteSH
 
   - name: aiida-core
-      github_id: aiidateam/aiida-core
+    github_id: aiidateam/aiida-core
 
   - name: gupshup
-      github_id: kraanzu/gupshup
+    github_id: kraanzu/gupshup
 
   - name: llm-strategy
-      github_id: BlackHC/llm-strategy
+    github_id: BlackHC/llm-strategy
 
   - name: camply
-      github_id: juftin/camply
+    github_id: juftin/camply
 
   - name: traffic
-      github_id: xoolive/traffic
+    github_id: xoolive/traffic
 
   - name: bluesky
-      github_id: TUDelft-CNS-ATM/bluesky
+    github_id: TUDelft-CNS-ATM/bluesky
 
   - name: OF-Scraper
-      github_id: datawhores/OF-Scraper
+    github_id: datawhores/OF-Scraper
 
   - name: dolphie
-      github_id: charles-001/dolphie
+    github_id: charles-001/dolphie
 
   - name: baca
-      github_id: wustho/baca
+    github_id: wustho/baca
 
   - name: elia
-      github_id: darrenburns/elia
+    github_id: darrenburns/elia
 
   - name: di
-      github_id: adriangb/di
+    github_id: adriangb/di
 
   - name: oterm
-      github_id: ggozad/oterm
+    github_id: ggozad/oterm
 
   - name: ChatGPTerminator
-      github_id: AineeJames/ChatGPTerminator
+    github_id: AineeJames/ChatGPTerminator
 
   - name: Instrukt
-      github_id: blob42/Instrukt
+    github_id: blob42/Instrukt
 
   - name: hexabyte
-      github_id: thetacom/hexabyte
+    github_id: thetacom/hexabyte
 
   - name: python-base
-      github_id: rochacbruno/python-base
+    github_id: rochacbruno/python-base
 
   - name: pdfalyzer
-      github_id: michelcrypt4d4mus/pdfalyzer
+    github_id: michelcrypt4d4mus/pdfalyzer
 
   - name: rtui
-      github_id: eduidl/rtui
+    github_id: eduidl/rtui
 
   - name: starwhale
-      github_id: star-whale/starwhale
+    github_id: star-whale/starwhale
 
   - name: nomenklatura
-      github_id: opensanctions/nomenklatura
+    github_id: opensanctions/nomenklatura
 
   - name: jpterm
-      github_id: davidbrochart/jpterm
+    github_id: davidbrochart/jpterm
 
   - name: django-tui
-      github_id: anze3db/django-tui
+    github_id: anze3db/django-tui
 
   - name: shira
-      github_id: darrenburns/shira
+    github_id: darrenburns/shira
 
   - name: wsrepl
-      github_id: doyensec/wsrepl
+    github_id: doyensec/wsrepl
 
   - name: kupo
-      github_id: darrenburns/kupo
+    github_id: darrenburns/kupo
 
   - name: wtpython
-      github_id: VagishVela/wtpython
+    github_id: VagishVela/wtpython
 
   - name: summ
-      github_id: yasyf/summ
+    github_id: yasyf/summ
 
   - name: Avilla
-      github_id: GraiaProject/Avilla
+    github_id: GraiaProject/Avilla
 
   - name: mactop
-      github_id: laixintao/mactop
+    github_id: laixintao/mactop
 
   - name: textual-autocomplete
-      github_id: darrenburns/textual-autocomplete
+    github_id: darrenburns/textual-autocomplete
 
   - name: browsr
-      github_id: juftin/browsr
+    github_id: juftin/browsr
 
   - name: ElevateAIPythonSDK
-      github_id: NICEElevateAI/ElevateAIPythonSDK
+    github_id: NICEElevateAI/ElevateAIPythonSDK
 
   - name: ToastCord
-      github_id: Traumatism/ToastCord
+    github_id: Traumatism/ToastCord
 
   - name: logmerger
-      github_id: ptmcg/logmerger
+    github_id: ptmcg/logmerger
 
   - name: Suspicion-Agent
-      github_id: CR-Gjx/Suspicion-Agent
+    github_id: CR-Gjx/Suspicion-Agent
 
   - name: textual-inputs
-      github_id: sirfuzzalot/textual-inputs
+    github_id: sirfuzzalot/textual-inputs
 
   - name: talksheet
-      github_id: danthelion/talksheet
+    github_id: danthelion/talksheet
 
   - name: macnotesapp
-      github_id: RhetTbull/macnotesapp
+    github_id: RhetTbull/macnotesapp
 
   - name: markata
-      github_id: WaylonWalker/markata
+    github_id: WaylonWalker/markata
 
   - name: usolitaire
-      github_id: eliasdorneles/usolitaire
+    github_id: eliasdorneles/usolitaire
 
   - name: kaskade
-      github_id: sauljabin/kaskade
+    github_id: sauljabin/kaskade
 
   - name: papyri
-      github_id: jupyter/papyri
+    github_id: jupyter/papyri
 
   - name: filequery
-      github_id: MarkyMan4/filequery
+    github_id: MarkyMan4/filequery
 
   - name: wasm-semantics
-      github_id: runtimeverification/wasm-semantics
+    github_id: runtimeverification/wasm-semantics
 
   - name: spiel
-      github_id: JoshKarpel/spiel
+    github_id: JoshKarpel/spiel
 
   - name: tuilwindcss
-      github_id: koaning/tuilwindcss
+    github_id: koaning/tuilwindcss
 
   - name: uproot-browser
-      github_id: scikit-hep/uproot-browser
+    github_id: scikit-hep/uproot-browser
 
   - name: textual-terminal
-      github_id: mitosch/textual-terminal
+    github_id: mitosch/textual-terminal
 
   - name: textual-astview
-      github_id: davep/textual-astview
+    github_id: davep/textual-astview
 
   - name: textual-imageview
-      github_id: adamviola/textual-imageview
+    github_id: adamviola/textual-imageview
 
   - name: ddqa
-      github_id: DataDog/ddqa
+    github_id: DataDog/ddqa
 
   - name: wordle-tui
-      github_id: frostming/wordle-tui
+    github_id: frostming/wordle-tui
 
   - name: TenBagger
-      github_id: AramKoorn/TenBagger
+    github_id: AramKoorn/TenBagger
 
   - name: nettowel
-      github_id: InfrastructureAsCode-ch/nettowel
+    github_id: InfrastructureAsCode-ch/nettowel
 
   - name: curator
-      github_id: AlexAltea/curator
+    github_id: AlexAltea/curator
 
   - name: textual-plotext
-      github_id: Textualize/textual-plotext
+    github_id: Textualize/textual-plotext
 
   - name: net-textorial
-      github_id: dannywade/net-textorial
+    github_id: dannywade/net-textorial
 
   - name: sqlib
-      github_id: zhostev/sqlib
+    github_id: zhostev/sqlib
 
   - name: word-search-generator
-      github_id: joshbduncan/word-search-generator
+    github_id: joshbduncan/word-search-generator
 
   - name: supernote-sync-tool
-      github_id: RohanGautam/supernote-sync-tool
+    github_id: RohanGautam/supernote-sync-tool
 
   - name: mmr
-      github_id: 9600dev/mmr
+    github_id: 9600dev/mmr
 
   - name: humble-explorer
-      github_id: koenvervloesem/humble-explorer
+    github_id: koenvervloesem/humble-explorer
 
   - name: nonebot-plugin-chatrecorder
-      github_id: noneplugin/nonebot-plugin-chatrecorder
+    github_id: noneplugin/nonebot-plugin-chatrecorder
 
   - name: netext
-      github_id: mahrz24/netext
+    github_id: mahrz24/netext
 
   - name: words-tui
-      github_id: anze3db/words-tui
+    github_id: anze3db/words-tui
 
   - name: cerberus
-      github_id: nus-apr/cerberus
+    github_id: nus-apr/cerberus
 
   - name: llmo
-      github_id: knowsuchagency/llmo
+    github_id: knowsuchagency/llmo
 
   - name: text-is-all-you-need
-      github_id: jflam/text-is-all-you-need
+    github_id: jflam/text-is-all-you-need
 
   - name: textual-select
-      github_id: mitosch/textual-select
+    github_id: mitosch/textual-select
 
   - name: bowtie
-      github_id: bowtie-json-schema/bowtie
+    github_id: bowtie-json-schema/bowtie
 
   - name: nonebot-plugin-access-control
-      github_id: bot-ssttkkl/nonebot-plugin-access-control
+    github_id: bot-ssttkkl/nonebot-plugin-access-control
 
   - name: maggma
-      github_id: materialsproject/maggma
+    github_id: materialsproject/maggma
 
   - name: cobib
-      github_id: mrossinek/cobib
+    github_id: mrossinek/cobib
 
   - name: jaypore_ci
-      github_id: theSage21/jaypore_ci
+    github_id: theSage21/jaypore_ci
 
   - name: improv
-      github_id: project-improv/improv
+    github_id: project-improv/improv
 
   - name: codelimit
-      github_id: getcodelimit/codelimit
+    github_id: getcodelimit/codelimit
 
   - name: textualog
-      github_id: rhuygen/textualog
+    github_id: rhuygen/textualog
 
   - name: markata-todoui
-      github_id: WaylonWalker/markata-todoui
+    github_id: WaylonWalker/markata-todoui
 
   - name: pypod
-      github_id: bmwant/pypod
+    github_id: bmwant/pypod
 
   - name: adapter-console
-      github_id: nonebot/adapter-console
+    github_id: nonebot/adapter-console
 
   - name: stepview
-      github_id: vincentclaes/stepview
+    github_id: vincentclaes/stepview
 
   - name: manifestoo
-      github_id: acsone/manifestoo
+    github_id: acsone/manifestoo
 
   - name: plutus-core-semantics
-      github_id: runtimeverification/plutus-core-semantics
+    github_id: runtimeverification/plutus-core-semantics
 
   - name: jenkins-tui
-      github_id: chelnak/jenkins-tui
+    github_id: chelnak/jenkins-tui
 
   - name: ai-rag-chat-evaluator
-      github_id: Azure-Samples/ai-rag-chat-evaluator
+    github_id: Azure-Samples/ai-rag-chat-evaluator
 
   - name: http-tui
-      github_id: treyhunner/http-tui
+    github_id: treyhunner/http-tui
 
   - name: nawwa_scalper_tool
-      github_id: CryptoNawwa/nawwa_scalper_tool
+    github_id: CryptoNawwa/nawwa_scalper_tool
 
   - name: explorer
-      github_id: theengs/explorer
+    github_id: theengs/explorer
 
   - name: pytest-tui
-      github_id: jeffwright13/pytest-tui
+    github_id: jeffwright13/pytest-tui
 
   - name: RichWatch
-      github_id: Cvaniak/RichWatch
+    github_id: Cvaniak/RichWatch
 
   - name: rich-diff
-      github_id: sureshdsk/rich-diff
+    github_id: sureshdsk/rich-diff
 
   - name: Tsubame
-      github_id: DoranekoSystems/Tsubame
+    github_id: DoranekoSystems/Tsubame
 
   - name: config-client
-      github_id: amenezes/config-client
+    github_id: amenezes/config-client
 
   - name: dask-ctl
-      github_id: dask-contrib/dask-ctl
+    github_id: dask-contrib/dask-ctl
 
   - name: sqeleton
-      github_id: datafold/sqeleton
+    github_id: datafold/sqeleton
 
   - name: textual-filedrop
-      github_id: agmmnn/textual-filedrop
+    github_id: agmmnn/textual-filedrop
