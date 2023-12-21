@@ -82,7 +82,7 @@ projects:
   - name: dooit
     github_id: kraanzu/dooit
 
-  - name: 0x0
+  - name: '0x0'
     github_id: mia-0/0x0
 
   - name: langchain-serve

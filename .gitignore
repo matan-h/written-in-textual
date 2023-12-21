@@ -90,3 +90,4 @@ temp/*
 .DS_Store
 
 /table[0-9]*.json
+/[t]*.py
