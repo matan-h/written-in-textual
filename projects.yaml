@@ -42,15 +42,6 @@ labels:
     image: "https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"
     description: "Best-of list with JavaScript projects"
 
-
-
-
-
-
-
-
-
-
 projects:
   - name: saleor
     github_id: saleor/saleor
@@ -82,7 +73,7 @@ projects:
   - name: dooit
     github_id: kraanzu/dooit
 
-  - name: '0x0'
+  - name: "0x0"
     github_id: mia-0/0x0
 
   - name: langchain-serve
