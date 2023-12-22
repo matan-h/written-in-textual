@@ -35,7 +35,7 @@ This curated list contains 130 best-of lists with a total of 93K stars. All proj
 
 <br>
 
-## Others
+## Projects
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
