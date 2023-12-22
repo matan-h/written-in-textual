@@ -1,12 +1,17 @@
 configuration:
+  sort_by: stars # and not projectrank
   min_stars: 10
-  min_projectrank: 0
   max_trending_projects: 10
+
+  min_projectrank: 0 # no minimum
   require_github: True
   allowed_licenses: ["all"]
   hide_project_license: False
   hide_license_risk: True
+
+  generate_legend: True
   
+  generate_toc: False
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
   projects_history_folder: "history"
